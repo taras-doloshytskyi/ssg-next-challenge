@@ -10,11 +10,13 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.18.1",
     "classnames": "^2.5.1",
     "next": "14.1.0",
     "prettier": "^3.2.4",
     "react": "^18",
     "react-dom": "^18",
+    "react-query": "^3.39.3",
     "tw-merge": "^0.0.1-alpha.3"
   },
   "devDependencies": {
